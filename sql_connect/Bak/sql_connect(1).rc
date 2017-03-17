@@ -1,0 +1,2 @@
+#include "Res/denemeDlg.rc"
+#include "Res/sql_connectDlg.rc"
